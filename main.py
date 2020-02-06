@@ -7,4 +7,4 @@ def LevelTwo():
 
 StartScherm()
 LevelOne()
-LevelTwo()
+LevelThree()
